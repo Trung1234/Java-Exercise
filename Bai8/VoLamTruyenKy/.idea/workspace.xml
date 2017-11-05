@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6ae3861-b67e-4549-ab95-6a5e60a19753" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/FindSubString.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/src/DayCon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/ArrUtil/out/production/ArrUtil/ArrayUtil.class" afterPath="$PROJECT_DIR$/../../Bai11/ArrUtil/out/production/ArrUtil/ArrayUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/ArrUtil/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Bai11/ArrUtil/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/ArrUtil/src/ArrayUtil.java" afterPath="$PROJECT_DIR$/../../Bai11/ArrUtil/src/ArrayUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Bai10/FindSubString/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -574,7 +561,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
