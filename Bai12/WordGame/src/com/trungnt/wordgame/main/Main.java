@@ -1,3 +1,8 @@
+package com.trungnt.wordgame.main;
+
+import com.trungnt.wordgame.mange.WordManager;
+import com.trungnt.wordgame.model.Word;
+
 import java.lang.reflect.Array;
 import java.util.Arrays;
 

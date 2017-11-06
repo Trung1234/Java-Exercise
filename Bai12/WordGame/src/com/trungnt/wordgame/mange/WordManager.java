@@ -1,3 +1,7 @@
+package com.trungnt.wordgame.mange;
+
+import com.trungnt.wordgame.model.Word;
+
 import java.util.ArrayList;
 import java.util.Collections;
 

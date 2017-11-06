@@ -1,3 +1,5 @@
+package com.trungnt.wordgame.model;
+
 /**
  * Created by My PC on 06/11/2017.
  */
