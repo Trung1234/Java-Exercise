@@ -7,50 +7,55 @@ public class DayCon {
 	public void lietKeDayConTangDan() {
 		viTriDuyet = 0;
 		while (viTriDuyet < CHUOI.length()) {
-			timKiemDayCon();
+			String dayCon = timKiemDayCon();
+			if(dayCon!=null){
+				System.out.println(dayCon);
+			}
 		}
 	}
 	
-	private void timKiemDayCon() {
+	private String timKiemDayCon() {
 		int khoangCach = -1;
-		int soDau = -1;
-		
+		int soLienTruoc = -1;
+		String dayCon = null;
 		while (viTriDuyet < CHUOI.length()) {
 			// Tim được số nguyên trên đường đi
-			int soNguyen = timSoNguyen();
-			boolean kt = false;
+			int soTiepTheo = timSoNguyen();
+			boolean kiemTraPhanTuHopLe = false;
 			
-			if (soDau == -1) {
-				soDau = soNguyen;
-				kt = true;
-			} else if (soNguyen - soDau > 0) {
+			if (soLienTruoc == -1) {
+				soLienTruoc = soTiepTheo;
+				kiemTraPhanTuHopLe = true;
+			} else if (soTiepTheo - soLienTruoc > 0) {
 				if (khoangCach == -1) {
-					khoangCach = soNguyen - soDau;
-					
-					System.out.print("\n" + soDau + " " + soNguyen);
-					soDau = soNguyen;
-					kt = true;
-				} else if (khoangCach == soNguyen - soDau) {
-					soDau = soNguyen;
-					kt = true;
-					System.out.print(soNguyen + " ");
+					khoangCach = soTiepTheo - soLienTruoc;
+					dayCon = soLienTruoc + " "+soTiepTheo;
+//					System.out.print("\n" + soLienTruoc + " " + soTiepTheo);
+					soLienTruoc = soTiepTheo;
+					kiemTraPhanTuHopLe = true;
+				} else if (khoangCach == soTiepTheo - soLienTruoc) {
+					soLienTruoc = soTiepTheo;
+					kiemTraPhanTuHopLe = true;
+//					System.out.print(soTiepTheo + " ");
+					dayCon +=" "+soTiepTheo;
 				}
 			}
 			
-			if (!kt) {
+			if (!kiemTraPhanTuHopLe) {
 				// Lùi lại 2 số trước để duyệt
 				// VD: 1 2 3 5 thì phải lùi về trước số 3
-				if (soNguyen - soDau > 0) {
-					viTriDuyet = viTriDuyet - (soNguyen + "").length();
-					viTriDuyet = viTriDuyet - (soDau + "").length() - 2;
+				if (soTiepTheo - soLienTruoc > 0) {
+					viTriDuyet = viTriDuyet - (soTiepTheo + "").length();
+					viTriDuyet = viTriDuyet - (soLienTruoc + "").length() - 2;
 				} else {
 					// Lùi lại 1 số trước để duyệt
 					// VD: 3 5 4 thì phải lùi về trước số 4
-					viTriDuyet = viTriDuyet - (soNguyen + "").length() - 1;
+					viTriDuyet = viTriDuyet - (soTiepTheo + " ").length() - 1;
 				}
-				return;
+				return dayCon;
 			}
 		}
+		return null;
 	}
 	
 	private int timSoNguyen() {
