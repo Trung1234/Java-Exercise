@@ -38,23 +38,38 @@ public class ContactManager {
 		}
 	}
 	public void printAllContact(){
-		
-		System.out.println(listDB.toString());
-	}
-	public void find(String subString){
 		System.out.println("-------------------------");
-		System.out.println("Kết quả tìm kiếm Thang là");
+		System.out.println("Ta có danh bạ là");
+		for(int i=0;i<listDB.size();i++){
+			System.out.println(listDB.get(i).toString());
+		}
+		
+	}
+	public void find(String name){
+		System.out.println("-------------------------");
+		System.out.println("Kết quả tìm kiếm "+name+ " là");
 		for(int j = 0;j<listDB.size();j++){
 			
 			String kiTuCHuoi = listDB.get(j).getName();
-			for(int i=0;i<subString.length();i++){
-				
-				if(kiTuCHuoi.indexOf(subString)>0){
-					System.out.println(listDB.get(j).toString());
-				}
+			if(checkName(name,kiTuCHuoi)==false){
+				System.out.println(kiTuCHuoi);
 			}
 			
 		}
+	}
+	public boolean checkName(String chuoitim,String name){
+		int index = -1;
+		for(int i=0;i<name.length();i++){
+			char cha = name.charAt(i);
+			if(index == chuoitim.indexOf(cha,index+1)){
+				return true;
+			}
+			if(index==-1){
+				break;
+			}
+			
+		}
+		return index>=0;
 	}
 	
 }
