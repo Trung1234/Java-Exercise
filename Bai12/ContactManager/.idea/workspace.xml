@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b4f73d-32e4-4b1f-876b-432aaa7a9482" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/trungnt/contact/main/Main.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ContactManager/Contact.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ContactManager/ContactManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ContactManager/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WordGame/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WordGame/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Contact.java" afterPath="$PROJECT_DIR$/src/com/trungnt/contact/model/Contact.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ContactManager.java" afterPath="$PROJECT_DIR$/src/com/trungnt/contact/manager/ContactManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/trungnt/contact/manager/ContactManager.java" afterPath="$PROJECT_DIR$/src/com/trungnt/contact/manager/ContactManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/trungnt/contact/model/Contact.java" afterPath="$PROJECT_DIR$/src/com/trungnt/contact/model/Contact.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +29,8 @@
       <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/trungnt/contact/model/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -48,8 +39,8 @@
       <file leaf-file-name="ContactManager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/trungnt/contact/manager/ContactManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -556,16 +547,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/trungnt/contact/model/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/trungnt/contact/manager/ContactManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

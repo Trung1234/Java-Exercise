@@ -44,12 +44,12 @@ public class ContactManager {
 	public void find(String subString){
 		System.out.println("-------------------------");
 		System.out.println("Kết quả tìm kiếm Thang là");
-		for(int i=0;i<subString.length();i++){
-		
-			char kitu = subString.charAt(i);
-			for(int j = 0;j<listDB.size();j++){
-				char kiTuCHuoi = listDB.get(j).getName().charAt(j);
-				if(kitu==kiTuCHuoi){
+		for(int j = 0;j<listDB.size();j++){
+			
+			String kiTuCHuoi = listDB.get(j).getName();
+			for(int i=0;i<subString.length();i++){
+				
+				if(kiTuCHuoi.indexOf(subString)>0){
 					System.out.println(listDB.get(j).toString());
 				}
 			}

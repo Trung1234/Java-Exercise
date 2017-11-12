@@ -38,7 +38,7 @@ public class Contact {
 	
 	@Override
 	public String toString() {
-		return "com.trungnt.contact.model.Contact{" +
+		return
 				"name='" + name + '\'' +
 				", phoneNumber='" + phoneNumber + '\'' +
 				'}';
