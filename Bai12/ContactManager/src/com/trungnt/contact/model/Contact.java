@@ -1,3 +1,5 @@
+package com.trungnt.contact.model;
+
 /**
  * Created by My PC on 11/11/2017.
  */
@@ -36,7 +38,7 @@ public class Contact {
 	
 	@Override
 	public String toString() {
-		return "Contact{" +
+		return "com.trungnt.contact.model.Contact{" +
 				"name='" + name + '\'' +
 				", phoneNumber='" + phoneNumber + '\'' +
 				'}';

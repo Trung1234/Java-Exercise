@@ -4,7 +4,6 @@
     <list default="true" id="0ba1327a-9f3e-4f4a-8f07-45596f8a3b43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Bai11/StudentManagement/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ContactManager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ContactManager/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ContactManager/src/Contact.java" afterPath="$PROJECT_DIR$/../ContactManager/src/Contact.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ContactManager/src/ContactManager.java" afterPath="$PROJECT_DIR$/../ContactManager/src/ContactManager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ContactManager/src/Main.java" afterPath="$PROJECT_DIR$/../ContactManager/src/Main.java" />
     </list>
@@ -88,7 +87,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -498,7 +496,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
