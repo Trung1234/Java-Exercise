@@ -5,8 +5,8 @@ import java.util.Random;
  */
 public class Main {
 	public static void main(String[] args) {
-		int n =9;
-		ArrayUtil arrayUtil = new ArrayUtil(9);
+		int n =10;
+		ArrayUtil arrayUtil = new ArrayUtil(n);
 		arrayUtil.findTraingle();
 		
 	}
