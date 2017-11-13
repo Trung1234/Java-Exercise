@@ -2,21 +2,35 @@ package com.trungnt.contact.main;
 
 import com.trungnt.contact.manager.ContactManager;
 
+import java.util.ArrayList;
+
 /**
  * Created by My PC on 11/11/2017.
  */
 public class Main {
-	public static void main(String[] args) {
-		ContactManager contactManager = new ContactManager();
-		contactManager.addContact("trung","32323323");
-//		contactManager.addContact("Thang","43323");
-		contactManager.addContact("Hoai","326563323");
-		contactManager.addContact("ToHoang","3254523323");
-		contactManager.addContact("ToThang","3232354323");
-		contactManager.addContact("ToTien","323233233223");
-		contactManager.printAllContact();
-//		contactManager.modifyContact("32323323","232323232");
-		contactManager.find("Thang");
-		
+	
+	private static ArrayList<String> listDB=new ArrayList();
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		listDB.add("ToThang123");
+		listDB.add("Thanh123");
+		listDB.add("ToTien");
+		listDB.add("Tan12");
+		listDB.add("123Thang");
+		listDB.add("12Thang3");
+		find("Thang");
+		// your code goes here
+	}
+	public static void find(String name){
+		System.out.println("-------------------------");
+		System.out.println("Kết quả tìm kiếm "+name+ " là");
+		for(int j = 0;j<listDB.size();j++){
+			
+			String kiTuCHuoi = listDB.get(j);
+			if(kiTuCHuoi.contains(name)){
+				System.out.println(kiTuCHuoi);
+			}
+			
+		}
 	}
 }

@@ -49,27 +49,26 @@ public class ContactManager {
 		System.out.println("-------------------------");
 		System.out.println("Kết quả tìm kiếm "+name+ " là");
 		for(int j = 0;j<listDB.size();j++){
-			
 			String kiTuCHuoi = listDB.get(j).getName();
-			if(checkName(name,kiTuCHuoi)==false){
+			if(kiTuCHuoi.contains(name)){
 				System.out.println(kiTuCHuoi);
 			}
 			
 		}
 	}
-	public boolean checkName(String chuoitim,String name){
-		int index = -1;
-		for(int i=0;i<name.length();i++){
-			char cha = name.charAt(i);
-			if(index == chuoitim.indexOf(cha,index+1)){
-				return true;
-			}
-			if(index==-1){
-				break;
-			}
-			
-		}
-		return index>=0;
-	}
+//	public int  checkName(String chuoitim,String name){
+//		int index = -1;
+//		for(int i=0;i<name.length();i++){
+//			char cha = name.charAt(i);
+//			if(index == chuoitim.indexOf(cha,index+1)){
+//				return true;
+//			}
+//			if(index==-1){
+//				break;
+//			}
+//
+//		}
+//		return index>=0;
+//	}
 	
 }
