@@ -6,9 +6,7 @@ import java.io.File;
 public class FileManager {
 	private File fileSrc;
 	
-	public FileManager(File fileSrc) {
-		this.fileSrc = fileSrc;
-	}
+
 	
 	public FileManager(String pathSrc) {
 		this.fileSrc = new File(pathSrc);
@@ -18,7 +16,7 @@ public class FileManager {
 		File[] listOfFiles = fileSrc.listFiles();
 		for (int i = 0; i < listOfFiles.length; i++) {
 			
-			if (listOfFiles[i].isFile()&&getFileExtension(listOfFiles[i])==extension) {
+			if (listOfFiles[i].isFile()&&getFileExtension(listOfFiles[i]).equals(extension)) {
 				System.out.println("File " + listOfFiles[i].getName());
 			}
 		}
