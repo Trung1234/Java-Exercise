@@ -10,7 +10,7 @@ import java.io.IOException;
  */
 public class Main {
 	public static void main(String[] args) {
-		File file = new File("E:/txt.txt");
+		File file = new File("txt.txt");
 		try {
 			FileInputStream input = new FileInputStream(file);
 			byte buff[] = new byte[1024];
