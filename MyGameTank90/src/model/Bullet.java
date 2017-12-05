@@ -5,11 +5,7 @@ import java.awt.Image;
 import javax.swing.ImageIcon;
 
 public class Bullet extends Item {
-//
-//	public static Image IMG_BULLET = new ImageIcon(
-//			Bullet.class.getResource("/images/fire.jpg"))
-//			.getImage();
-	
+
 	int orientation;
 
 	public Bullet(int id, int x, int y, int size, int orientation) {

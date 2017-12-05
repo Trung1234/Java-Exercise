@@ -134,7 +134,9 @@ public class MyTank extends Item {
 				if ( item.id == Images.WATER_ID ) {
 					continue;
 				}
-				
+				if ( item.id == Images.TREE_ID ) {
+					continue;
+				}
 				Rectangle rect2 = 
 						new Rectangle(item.x, item.y, 
 								item.size, item.size);
@@ -144,7 +146,7 @@ public class MyTank extends Item {
 						return;
 					}
 					
-					if ( item.id == Images.BRICK_ID ||item.id == Images.TREE_ID) {
+					if ( item.id == Images.BRICK_ID ) {
 						bullets.remove(i);
 						items.remove(j);
 						return;

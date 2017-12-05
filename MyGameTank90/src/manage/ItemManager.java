@@ -12,7 +12,7 @@ import java.io.RandomAccessFile;
 import java.util.ArrayList;
 
 
-public class TankManager {
+public class ItemManager {
     private ArrayList<Item> items;
     private MyTank myTank;
     long currentTimeFireMyTank = 0;
@@ -21,7 +21,7 @@ public class TankManager {
     long currentfireEnemyTank;
     Item home;
 
-    public TankManager() {
+    public ItemManager() {
         items = new ArrayList<>();
         int x = 20 * 10;
         int y = 25 * 20;
@@ -159,7 +159,7 @@ public class TankManager {
 
 	public void fireBullet() {
 		long time = System.currentTimeMillis();
-		if ( time - currentTimeFireMyTank > 500 ) {
+		if ( time - currentTimeFireMyTank > 100 ) {
 			myTank.fireBullet();
 			currentTimeFireMyTank = time;
 		}
@@ -204,7 +204,7 @@ public class TankManager {
 
 	public void fireEnemyTank() {
 		long time = System.currentTimeMillis();
-		if  ( time - currentfireEnemyTank < 3500 ) {
+		if  ( time - currentfireEnemyTank < 1500 ) {
 			return;
 		}
 		currentfireEnemyTank = time;

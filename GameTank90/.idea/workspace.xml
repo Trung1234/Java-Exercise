@@ -8,7 +8,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyGameTank90/MyGameTank90.iml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/ui/ManagerItem.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/user_interface/MyFrame.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/user_interface/MyPanel.java" afterPath="" />
@@ -25,6 +24,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ui/MyPanel.class" afterPath="$PROJECT_DIR$/bin/ui/MyPanel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Main.java" afterPath="$PROJECT_DIR$/src/main/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Bullet.java" afterPath="$PROJECT_DIR$/src/model/Bullet.java" />

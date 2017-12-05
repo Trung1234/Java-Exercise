@@ -1,6 +1,6 @@
-package user_interface;
+package userinterface;
 
-import manage.TankManager;
+import manage.ItemManager;
 import model.MyTank;
 
 import javax.swing.*;
@@ -10,7 +10,7 @@ import java.awt.event.KeyEvent;
 
 
 public class MyPanel extends JPanel implements Runnable {
-    private TankManager managerItem;
+    private ItemManager managerItem;
     private Thread thread;
     private boolean isLeft;
     private boolean isRight;
@@ -23,7 +23,7 @@ public class MyPanel extends JPanel implements Runnable {
         setSize(MyFrame.WIDTH_FRAME, MyFrame.HEIGHT_FRAME);
         setLocation(0, 0);
         setBackground(Color.DARK_GRAY);
-        managerItem = new TankManager();
+        managerItem = new ItemManager();
 
         addKeyListener(new KeyAdapter() {
             @Override

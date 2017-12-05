@@ -3,7 +3,7 @@ package model;
 import java.awt.*;
 
 
-public class Item {
+public  class Item {
     Image img;
     int id;
     int x, y;

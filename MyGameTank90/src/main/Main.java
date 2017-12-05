@@ -1,6 +1,6 @@
 package main;
 
-import user_interface.MyFrame;
+import userinterface.MyFrame;
 
 
 public class Main {

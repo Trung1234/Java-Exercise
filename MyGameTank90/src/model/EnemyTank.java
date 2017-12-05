@@ -25,11 +25,8 @@ public class EnemyTank extends Item {
 				x = x + 1;
 				changeOri(items);
 			}else {
-				Random rd = new Random();
-				int rdInt = rd.nextInt(10000);
-				if ( rdInt > 9889 ) {
-					changeOri(items);
-				}
+				randomChangeOrientation(items);
+
 			}
 			break;
 		case MyTank.RIGHT:
@@ -39,11 +36,7 @@ public class EnemyTank extends Item {
 				x = x - 1;
 				changeOri(items);
 			}else {
-				Random rd = new Random();
-				int rdInt = rd.nextInt(10000);
-				if ( rdInt > 9889 ) {
-					changeOri(items);
-				}
+				randomChangeOrientation(items);
 			}
 			break;
 		case MyTank.UP:
@@ -53,11 +46,7 @@ public class EnemyTank extends Item {
 				y = y + 1;
 				changeOri(items);
 			}else {
-				Random rd = new Random();
-				int rdInt = rd.nextInt(10000);
-				if ( rdInt > 9889 ) {
-					changeOri(items);
-				}
+				randomChangeOrientation(items);
 			}
 			break;
 		case MyTank.DOWN:
@@ -67,13 +56,17 @@ public class EnemyTank extends Item {
 				y = y - 1;
 				changeOri(items);
 			}else {
-				Random rd = new Random();
-				int rdInt = rd.nextInt(10000);
-				if ( rdInt > 9889 ) {
-					changeOri(items);
-				}
+				randomChangeOrientation(items);
 			}
 			break;
+		}
+	}
+
+	private void randomChangeOrientation(ArrayList<Item> items) {
+		Random rd = new Random();
+		int rdInt = rd.nextInt(10000);
+		if ( rdInt > 9889 ) {
+			changeOri(items);
 		}
 	}
 
