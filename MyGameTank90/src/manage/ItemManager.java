@@ -94,6 +94,16 @@ public class ItemManager {
     			x6, y6, size6, ori6);
     	
     	enemyTanks.add(enemyTank6);
+
+		int x7 = 22*20;
+		int y7 = 17*20;
+		int ori7 = MyTank.RIGHT;
+		int size7 = 36;
+
+		EnemyTank enemyTank7 = new EnemyTank(Images.ID_ENEMY_TANKS[ori7],
+				x7, y7, size7, ori7);
+
+		enemyTanks.add(enemyTank7);
     }
     
     public void drawEnemyAllTank(Graphics2D g2d) {

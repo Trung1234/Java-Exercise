@@ -2,11 +2,17 @@ package userinterface;
 
 import manage.ItemManager;
 import model.MyTank;
+import sun.audio.AudioPlayer;
+import sun.audio.AudioStream;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 
 
 public class MyPanel extends JPanel implements Runnable {
@@ -109,7 +115,7 @@ public class MyPanel extends JPanel implements Runnable {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            
+
             moveMyTank();
             moveBulletOfTank();
             fireOfMyTank();
@@ -128,13 +134,15 @@ public class MyPanel extends JPanel implements Runnable {
             	break;
             }
             repaint();
+
         }
        
     }
-    
+
+
     private void moveBulletOfTank() {
 		managerItem.moveBulletOfMyTank();
-		
+
 	}
 
 	void fireOfMyTank(){
