@@ -37,16 +37,16 @@ public class MyPanel extends JPanel implements Runnable {
                 int key = e.getKeyCode();
 
                 switch (key) {
-                    case KeyEvent.VK_LEFT:
+                    case KeyEvent.VK_A:
                         isLeft = true;
                         break;
-                    case KeyEvent.VK_RIGHT:
+                    case KeyEvent.VK_D:
                         isRight = true;
                         break;
-                    case KeyEvent.VK_UP:
+                    case KeyEvent.VK_W:
                         isUp = true;
                         break;
-                    case KeyEvent.VK_DOWN:
+                    case KeyEvent.VK_S:
                         isDown = true;
                 break;
                 case KeyEvent.VK_ENTER:
@@ -59,16 +59,16 @@ public class MyPanel extends JPanel implements Runnable {
         public void keyReleased(KeyEvent e) {
             int key = e.getKeyCode();
                 switch (key) {
-                    case KeyEvent.VK_LEFT:
+                    case KeyEvent.VK_A:
                         isLeft = false;
                         break;
-                    case KeyEvent.VK_RIGHT:
+                    case KeyEvent.VK_D:
                         isRight = false;
                         break;
-                    case KeyEvent.VK_UP:
+                    case KeyEvent.VK_W:
                         isUp = false;
                         break;
-                    case KeyEvent.VK_DOWN:
+                    case KeyEvent.VK_S:
                         isDown = false;
                         break;
                     case KeyEvent.VK_ENTER:

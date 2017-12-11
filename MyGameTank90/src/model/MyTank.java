@@ -1,7 +1,14 @@
 package model;
 
+import sun.audio.AudioPlayer;
+import sun.audio.AudioStream;
+
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 
 
@@ -163,16 +170,38 @@ public class MyTank extends Item {
 			Bullet bullet = bullets.get(i);
 			Rectangle rect2 = new Rectangle(bullet.x, bullet.y, bullet.size, bullet.size);
 			if ( rect1.intersects(rect2)) {
+				playExplosion();
 				return true;
+
 			}
 		}
 		return false;
 		
 	}
+	public void playExplosion()  {
+		// open the sound file as a Java input stream
+		String gongFile = "src/sound/explosion.wav";
+		InputStream in = null;
+		try {
+			in = new FileInputStream(gongFile);
+			AudioStream audioStream = new AudioStream(in);
+
+			// play the audio clip with the audioplayer class
+			AudioPlayer.player.start(audioStream);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		// create an audiostream from the inputstream
+
+	}
 
 
-	
-	
+
+
+
 
 	//
 }
