@@ -25,7 +25,7 @@ public class EnemyTank extends Item {
 				x = x + 1;
 				changeOri(items);
 			}else {
-				randomChangeOrientation(items);
+//				randomChangeOrientation(items);
 
 			}
 			break;
@@ -36,7 +36,7 @@ public class EnemyTank extends Item {
 				x = x - 1;
 				changeOri(items);
 			}else {
-				randomChangeOrientation(items);
+//				randomChangeOrientation(items);
 			}
 			break;
 		case MyTank.UP:
@@ -46,7 +46,7 @@ public class EnemyTank extends Item {
 				y = y + 1;
 				changeOri(items);
 			}else {
-				randomChangeOrientation(items);
+//				randomChangeOrientation(items);
 			}
 			break;
 		case MyTank.DOWN:
@@ -56,7 +56,7 @@ public class EnemyTank extends Item {
 				y = y - 1;
 				changeOri(items);
 			}else {
-				randomChangeOrientation(items);
+//				randomChangeOrientation(items);
 			}
 			break;
 		}
@@ -64,8 +64,8 @@ public class EnemyTank extends Item {
 
 	private void randomChangeOrientation(ArrayList<Item> items) {
 		Random rd = new Random();
-		int rdInt = rd.nextInt(10000);
-		if ( rdInt > 9889 ) {
+		int rdInt = rd.nextInt(1000);
+		if ( rdInt > 988 ) {
 			changeOri(items);
 		}
 	}

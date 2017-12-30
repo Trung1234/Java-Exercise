@@ -11,6 +11,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+import static model.Item.playSound;
+
 
 public class MyTank extends Item {
 	public static final int LEFT = 0;
@@ -18,13 +20,15 @@ public class MyTank extends Item {
 	public static final int UP = 2;
 	public static final int DOWN = 3;
 
+	String gongFile = "src/sound/explosion.wav";
+
 	int orientation;
 	ArrayList<Bullet> bullets;
 
 	public MyTank(int id, int x, int y, int size, int orientation) {
 		super(id, x, y, size);
 		this.orientation = orientation;
-		bullets = new ArrayList<Bullet>();
+		bullets = new ArrayList<>();
 	}
 
 	public void move(int orientation, ArrayList<Item> items) {
@@ -84,7 +88,7 @@ public class MyTank extends Item {
 	}
 
 	public void fireBullet() {
-		int sizeB = 7;
+		int sizeB = 8;
 		int orB = orientation;
 		int xB;
 		int yB;
@@ -170,7 +174,7 @@ public class MyTank extends Item {
 			Bullet bullet = bullets.get(i);
 			Rectangle rect2 = new Rectangle(bullet.x, bullet.y, bullet.size, bullet.size);
 			if ( rect1.intersects(rect2)) {
-				playExplosion();
+				playSound(gongFile);
 				return true;
 
 			}
@@ -178,30 +182,5 @@ public class MyTank extends Item {
 		return false;
 		
 	}
-	public void playExplosion()  {
-		// open the sound file as a Java input stream
-		String gongFile = "src/sound/explosion.wav";
-		InputStream in = null;
-		try {
-			in = new FileInputStream(gongFile);
-			AudioStream audioStream = new AudioStream(in);
 
-			// play the audio clip with the audioplayer class
-			AudioPlayer.player.start(audioStream);
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
-		// create an audiostream from the inputstream
-
-	}
-
-
-
-
-
-
-	//
 }

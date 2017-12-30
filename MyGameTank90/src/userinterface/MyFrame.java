@@ -1,5 +1,6 @@
 package userinterface;
 
+import model.Item;
 import sun.audio.AudioPlayer;
 import sun.audio.AudioStream;
 
@@ -15,6 +16,9 @@ import java.io.InputStream;
 public class MyFrame extends JFrame{
     public static final int WIDTH_FRAME = 28 * 20;
     public static final int HEIGHT_FRAME = 29 * 20;
+
+    String gongFile = "src/sound/xf1.mid";
+
      MyPanel myPanel;
 
     public MyFrame() {
@@ -34,28 +38,10 @@ public class MyFrame extends JFrame{
         });
 
         init();
-        playMusic();
+        Item.playSound(gongFile);
 
     }
-    public void playMusic()  {
-        // open the sound file as a Java input stream
-        String gongFile = "src/sound/xf1.mid";
-        InputStream in = null;
-        try {
-            in = new FileInputStream(gongFile);
-            AudioStream audioStream = new AudioStream(in);
 
-            // play the audio clip with the audioplayer class
-            AudioPlayer.player.start(audioStream);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        // create an audiostream from the inputstream
-
-    }
 
     private void init() {
         myPanel = new MyPanel();

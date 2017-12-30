@@ -199,7 +199,7 @@ public class ItemManager {
 
 	public void moveAllEnemyTank() {
 		long current = System.currentTimeMillis();
-		if ( current - currentMoveEnemy < 25 ) {
+		if ( current - currentMoveEnemy < 20 ) {
 			return;
 		}
 		currentMoveEnemy = current;
@@ -214,7 +214,7 @@ public class ItemManager {
 
 	public void fireEnemyTank() {
 		long time = System.currentTimeMillis();
-		if  ( time - currentfireEnemyTank < 1500 ) {
+		if  ( time - currentfireEnemyTank < 1000 ) {
 			return;
 		}
 		currentfireEnemyTank = time;
