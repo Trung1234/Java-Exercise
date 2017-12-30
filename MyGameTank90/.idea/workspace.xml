@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a888d78-b62c-4080-94d3-2922cc6b35a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/out/production/CarDemo/com/trungnt/car/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/Button_Enemy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/bird.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/bossyellow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/bossyellow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/bossyellow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/bossyellow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/brick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/fire.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/fire_bullet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/fire_bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/player_green_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/player_green_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/player_green_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/player_green_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/rock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/images/water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/main/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/manage/ItemManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/model/Bullet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/model/Images.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/model/Item.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/model/MyTank.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/sound/explosion.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/sound/xf0.mid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/ui/MyFrame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/ui/MyFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/ui/MyPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/ui/MyPanel.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/images/Button_Enemy.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/images/bird.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/images/bossyellow_down.png" />
@@ -21,11 +51,35 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/images/water.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/sound/explosion.wav" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/sound/xf0.mid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/AgeExeption.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/AgeUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/TooOldException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/TooYoungException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/out/production/VarExample/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/out/production/VarExample/SinhVien.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai10/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/Bai11.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai12/.idea/Bai12.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai12/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai12/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai12/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/CarDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CarDemo/src/com/trungnt/car/Car.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/GameTank1990.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/out/production/GameTank1990/map/map1.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/main/Main.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/manage/ItemManager.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/map/map1.txt" />
@@ -37,15 +91,27 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTank1990/src/ui/MyPanel.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/JavaDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/src/com/trungnt/demo/AgeExeption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/src/com/trungnt/demo/AgeUtils.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/src/com/trungnt/demo/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/src/com/trungnt/demo/TooOldException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/src/com/trungnt/demo/TooYoungException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/VarExample.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/src/SinhVien.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/manage/ItemManager.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/manage/ItemManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/model/EnemyTank.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/model/EnemyTank.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/model/Item.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/model/Item.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/model/MyTank.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/model/MyTank.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/userinterface/MyFrame$1.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/userinterface/MyFrame$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyGameTank90/userinterface/MyFrame.class" afterPath="$PROJECT_DIR$/out/production/MyGameTank90/userinterface/MyFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bai10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bai10/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BookManagement/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BookManagement/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/manage/ItemManager.java" afterPath="$PROJECT_DIR$/src/manage/ItemManager.java" />
@@ -64,12 +130,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ItemManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ItemManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/manage/ItemManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1075">
-              <caret line="192" column="16" lean-forward="false" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="248">
+              <caret line="172" column="23" lean-forward="false" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+              <folding>
+                <element signature="e#4099#4100#0" expanded="true" />
+                <element signature="e#4131#4132#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,18 +146,8 @@
       <file leaf-file-name="EnemyTank.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/EnemyTank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="513">
               <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/awt/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="782" column="19" lean-forward="false" selection-start-line="782" selection-start-column="19" selection-end-line="782" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -97,11 +156,21 @@
       <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="21">
+              <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Images.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Images.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,11 +198,21 @@
       <file leaf-file-name="MyTank.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/MyTank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="176" column="16" lean-forward="false" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
+            <state relative-caret-position="-634">
+              <caret line="89" column="16" lean-forward="false" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -141,8 +220,8 @@
       <file leaf-file-name="MyPanel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/userinterface/MyPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="125" column="35" lean-forward="false" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+            <state relative-caret-position="206">
+              <caret line="149" column="31" lean-forward="true" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,10 +229,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFrame.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/userinterface/MyFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
+            <state relative-caret-position="462">
               <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding />
             </state>
@@ -196,7 +275,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -218,8 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,8 +355,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -428,13 +507,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32456142" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32456142" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32456142" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32456142" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -450,6 +528,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -491,7 +570,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2436">
           <caret line="125" column="31" lean-forward="false" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#4099#4100#0" expanded="true" />
+            <element signature="e#4131#4132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -515,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +653,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2436">
           <caret line="125" column="31" lean-forward="false" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#4099#4100#0" expanded="true" />
+            <element signature="e#4131#4132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -614,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
           <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +737,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5292">
           <caret line="265" column="19" lean-forward="false" selection-start-line="265" selection-start-column="19" selection-end-line="265" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#4099#4100#0" expanded="true" />
+            <element signature="e#4131#4132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -698,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,25 +860,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/awt/Container.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7203">
           <caret line="415" column="21" lean-forward="false" selection-start-line="415" selection-start-column="21" selection-end-line="415" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Images.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,41 +879,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="352" column="30" lean-forward="false" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Collision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Collision.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/awt/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="782" column="19" lean-forward="false" selection-start-line="782" selection-start-column="19" selection-end-line="782" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/EnemyTank.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="21" />
-          <folding />
+          <caret line="782" column="19" lean-forward="false" selection-start-line="782" selection-start-column="19" selection-end-line="782" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -855,10 +898,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/MyTank.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Images.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="176" column="16" lean-forward="false" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
+        <state relative-caret-position="-462">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/EnemyTank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -867,26 +926,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/userinterface/MyPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="125" column="35" lean-forward="false" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+        <state relative-caret-position="206">
+          <caret line="149" column="31" lean-forward="true" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/userinterface/MyFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/manage/ItemManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state relative-caret-position="248">
+          <caret line="172" column="23" lean-forward="false" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+          <folding>
+            <element signature="e#4099#4100#0" expanded="true" />
+            <element signature="e#4131#4132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/MyTank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-634">
+          <caret line="89" column="16" lean-forward="false" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/manage/ItemManager.java">
+    <entry file="file://$PROJECT_DIR$/src/userinterface/MyFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1075">
-          <caret line="192" column="16" lean-forward="false" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
+        <state relative-caret-position="462">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding />
         </state>
       </provider>

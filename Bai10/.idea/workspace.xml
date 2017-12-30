@@ -58,10 +58,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaDemo/out/production/JavaDemo/com/trungnt/demo/TooYoungException.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/out/production/VarExample/Main.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VarExample/out/production/VarExample/SinhVien.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Bai10.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/Bai11.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bai11/.idea/modules.xml" />
@@ -114,6 +111,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/model/MyTank.class" afterPath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/model/MyTank.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/userinterface/MyFrame$1.class" afterPath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/userinterface/MyFrame$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/userinterface/MyFrame.class" afterPath="$PROJECT_DIR$/../MyGameTank90/out/production/MyGameTank90/userinterface/MyFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BookManagement/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BookManagement/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyGameTank90/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MyGameTank90/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyGameTank90/src/manage/ItemManager.java" afterPath="$PROJECT_DIR$/../MyGameTank90/src/manage/ItemManager.java" />
@@ -156,7 +154,9 @@
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -194,9 +194,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -309,6 +309,14 @@
       <option name="presentableId" value="Default" />
       <updated>1513573645036</updated>
     </task>
+    <task id="LOCAL-00001" summary="bdfcgh">
+      <created>1513689493307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513689493307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -344,11 +352,23 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bdfcgh" />
+    <option name="LAST_COMMIT_MESSAGE" value="bdfcgh" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FindSubString/src/DayCon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FindSubString/src/DayCon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
